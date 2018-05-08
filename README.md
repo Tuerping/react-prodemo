@@ -1,3 +1,8 @@
-today
-is
-one
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/Tuerping/react-prodemo.git
+git push -u origin master
